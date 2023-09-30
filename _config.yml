@@ -37,10 +37,10 @@ plugins:
 ####################################
 #
 owner:
-  name: wangshiyuo
+  name: wangshiyu
   avatar: avatar.jpg
-  job: "程序猿"
-  bio: "努力搬砖的打工仔。"
+  job: "python & golang developer"
+  bio: "A sense of accomplishment is the best teacher."
   email: wangshiyuo@foxmial.com
   disqus-shortname: #username
   twitter:  #username
