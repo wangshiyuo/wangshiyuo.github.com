@@ -6,7 +6,7 @@
 title: wangshiyuo
 email: wangshiyuo@foxmail.com
 description: wangshiyuo's blog,powered by jekyll.
-url: http://wangshiyuo.space # the base hostname & protocol for your site
+url: http://wangshiyuo.github.io # the base hostname & protocol for your site
 keywords: ["jekyll", "java", "scala","blog"]
 
 #
