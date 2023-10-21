@@ -13,7 +13,7 @@ def hello():
         return 'hello flask'
 
 ```
-
+<!--more--> 
 利用flask自带的add_url_rule注册
 
 ```python
